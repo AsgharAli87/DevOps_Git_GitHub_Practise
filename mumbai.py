@@ -4,3 +4,7 @@ multiplication = num1 * num2
 print("Multiplication:", multiplication)
 division = num1 / num2
 print("Division:", division)
+modulus = num1 % num2
+modulus = num1 % num2
+modulus = num1 % num2
+print("Modulus:", modulus)
